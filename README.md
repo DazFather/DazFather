@@ -2,7 +2,7 @@
 
 ## Developer
 Currently working to become a back-end developer and hopefully one day a full-stack developer.
-I'm confident coding in **Go** and **Python** but I had some experience also with JavaScript (I also took the [freeCodeCamp certification](https://www.freecodecamp.org/dazfather) on it), C and Java.
+I'm confident coding in **Go** and **Python** but I had some experience also with JavaScript (I also took the [freeCodeCamp certification](https://www.freecodecamp.org/dazfather) on it), Php, C and Java.
 You can find my most of my front-end works on my [CodePen profile](https://codepen.io/DazFather).
 
 ## Organizations
