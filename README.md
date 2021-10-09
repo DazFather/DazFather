@@ -10,6 +10,5 @@ You can find my most of my front-end works on my [CodePen profile](https://codep
 - Admin of InsideTelegram __(even though at the moment I'm not really active)__
 
 # Contacts
-📫 You can contact me on Telegram at [@DazFather](https://t.me/DazFather) __e-mails are out-dated__
-
+📫 You can contact me on Telegram at [@DazFather](https://t.me/DazFather) or via e-mail: dlavermicocca99.uni@gmail.com
 
