@@ -1,14 +1,13 @@
-👋 I'm Davide Lavermicocca, 22 y/0, Italian Telegram specialist and wanna-be programmer.
+👋 I'm Davide Lavermicocca, 25 y/0, Italian fullstack developer
 
 ## Developer
-Currently working to become a back-end developer and hopefully one day a full-stack developer.
-I'm confident coding in **Go** and **Python** but I had some experience also with JavaScript (I also took the [freeCodeCamp certification](https://www.freecodecamp.org/dazfather) on it), Php, C and Java.
+I'm confident coding in **Go** and **JavaScript** but I had some experience also with Python, Php, C and Java.
 
 ## My Projects
 You can find in the repository section some back-end project, while most of my front-end works on my [CodePen profile](https://codepen.io/DazFather).
 **Worth to mention:**
 - [DazSpaceCMS](https://github.com/DazFather/DazSpaceCMS) - a pure golang server and content management system
-- [Snake on Grid](https://codepen.io/DazFather/pen/rNzWWzv) - a playable snake on a game-boy loocking site made in pure vanilla (only HTML, CSS ECMAScript)
+- [Snake on Grid](https://codepen.io/DazFather/pen/rNzWWzv) - a playable snake on a game-boy looking site made in pure vanilla (only HTML, CSS amd ECMAScript)
 
 ## Organizations
 - Member and contributor of [URL Rete Libera](https://github.com/URL-Rete-Libera)
